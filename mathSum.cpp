@@ -5,7 +5,6 @@
 // This is a math program, calculating the sum of two numbers
 
 #include <iostream>
-#include <iomanip>
 
 int main() {
     // This is a math program, calculating the sum of two numbers
